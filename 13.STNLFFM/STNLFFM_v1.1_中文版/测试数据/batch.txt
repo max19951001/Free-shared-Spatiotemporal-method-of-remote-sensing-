@@ -1,0 +1,2 @@
+E:\data\M_20011017.tif,E:\data\L_20011102.tif,E:\data\M_20011102.tif,E:\data\output_20011017_OneRef.tif
+E:\data\M_20011017.tif,E:\data\L_20011008.tif,E:\data\M_20011008.tif,E:\data\L_20011102.tif,E:\data\M_20011102.tif,E:\data\output_20011017_TwoRef.tif

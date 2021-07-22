@@ -1,0 +1,30 @@
+ENVI
+description = {
+  Band Math Result, Expression = [fix(b1)] B1:reg_MOD_t_clear [Wed Mar
+  1316:16:06 2019]}
+samples = 72
+lines   = 69
+bands   = 23
+header offset = 0
+file type = ENVI Standard
+data type = 2
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+x start = 0
+y start = 0
+map info = {Arbitrary, 1.0000, 1.0000, 1.0000, 1.0000, 2.4000000000e+002, 2.4000000000e+002, 1, units=Meters}
+wavelength units = Unknown
+band names = {
+ Band Math (Band 1:reg_MOD_t_clear), Band Math (Band 2:reg_MOD_t_clear), 
+ Band Math (Band 3:reg_MOD_t_clear), Band Math (Band 4:reg_MOD_t_clear), 
+ Band Math (Band 5:reg_MOD_t_clear), Band Math (Band 6:reg_MOD_t_clear), 
+ Band Math (Band 7:reg_MOD_t_clear), Band Math (Band 8:reg_MOD_t_clear), 
+ Band Math (Band 9:reg_MOD_t_clear), Band Math (Band 10:reg_MOD_t_clear), 
+ Band Math (Band 11:reg_MOD_t_clear), Band Math (Band 12:reg_MOD_t_clear), 
+ Band Math (Band 13:reg_MOD_t_clear), Band Math (Band 14:reg_MOD_t_clear), 
+ Band Math (Band 15:reg_MOD_t_clear), Band Math (Band 16:reg_MOD_t_clear), 
+ Band Math (Band 17:reg_MOD_t_clear), Band Math (Band 18:reg_MOD_t_clear), 
+ Band Math (Band 19:reg_MOD_t_clear), Band Math (Band 20:reg_MOD_t_clear), 
+ Band Math (Band 21:reg_MOD_t_clear), Band Math (Band 22:reg_MOD_t_clear), 
+ Band Math (Band 23:reg_MOD_t_clear)}

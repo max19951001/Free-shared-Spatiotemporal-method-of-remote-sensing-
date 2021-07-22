@@ -1,0 +1,17 @@
+ENVI
+description = {
+  File Resize Result, x resize factor: 1.000000, y resize factor: 1.000000.
+  [Wed Sep 10 15:47:46 2008]}
+samples = 400
+lines   = 400
+bands   = 3
+header offset = 0
+file type = ENVI Standard
+data type = 2
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+wavelength units = Unknown
+band names = {
+ Resize (Band 1:TM08-12-01), Resize (Band 2:TM08-12-01), 
+ Resize (Band 3:TM08-12-01)}

@@ -1,0 +1,18 @@
+ENVI
+description = {
+  Applied Mask Result [Tue Mar 12 23:06:06 2019]}
+samples = 576
+lines   = 552
+bands   = 1
+header offset = 0
+file type = ENVI Standard
+data type = 2
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+x start = 0
+y start = 0
+map info = {Arbitrary, 1.0000, 1.0000, 1.0000, 1.0000, 3.0000000000e+001, 3.0000000000e+001, 1, units=Meters}
+wavelength units = Unknown
+band names = {
+ ROI Mask (Mosaic (Band 1):LC81260382015287LGN00_sr_ndvi_cut_mosaic)}

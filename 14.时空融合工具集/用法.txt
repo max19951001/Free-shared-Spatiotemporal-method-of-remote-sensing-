@@ -1,0 +1,11 @@
+　
+本时空融合集合工具(spatiotemporalfusion.sav)基于IDL开发，包括了四种典型的时空融合方法STARFM(Gao et al., 2006)、ESTARFM(Zhu et al., 2010)、FSDAF(Zhu et al. 2016)、Fit-FC(Wang et al. 2018)。
+
+使用步骤如下：
+1.数据准备：确保粗分辨率影像与细分辨率影像覆盖相同的地理空间范围，同时确保粗细分辨率影像的大小为整数比。对于STARFM、FSDAF、Fit-FC方法，仅需要准备一对粗、细分辨率影像作为基准输入，对于ESTARFM则需要准备两对粗、细分辨率影像作为基准输入。
+2.将“spatiotemporalfusion.sav”拷贝至\Exelis\ENVI5*\classic\save_add\路径下。
+3.打开ENVI+IDL，在IDL控制台输入“spatiotemporalblending”命令，即可打开融合工具的界面。
+4.根据图所示，先点击左上方按钮导入粗分辨率影像时序，再在左侧窗口中选择具有配对高分影像的低分影像，然后点击右侧按钮选择相应时刻的细分辨率影像形成影像对，然后选择融合方法与设置相应参数，点击“Run”按钮，即开始时空融合程序的运行。
+当IDL控制台会显示“finished!”时，表示融合程序运行完毕。
+
+有任何问题请联系: chenxuehong@bnu.edu.cn

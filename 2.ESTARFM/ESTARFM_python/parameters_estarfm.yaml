@@ -1,0 +1,23 @@
+w: 25  # set the half window size, if 25, the window size is 25*2+1=51 fine pixels
+num_class: 4.0  # set the estimated number of classes, please set a larger value if blending images with very few bands
+DN_min: 0.0  # set the range of DN value of the image,If byte, 0 and 255
+DN_max: 10000.0
+background: -9999   # set the value of background pixels. 0 means that pixels will be considered as background if one of its bands= 0
+patch_long: 500   # set the size of each block,if process whole ETM scene, set 500-1000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

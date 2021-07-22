@@ -1,0 +1,27 @@
+w: 20  # set the half window size, if 25, the window size is 25*2+1=51
+num_similar_pixel: 20  # set number of similar pixels
+num_pure: 100  # number of most purest coarse pixels in each class selected for change calculation
+DN_min: 0.0  # set the range of DN value of the image,If byte, 0 and 255
+DN_max: 10000.0
+scale_factor: 16  # set the scale factor, it is integer=coarse resolution/fine resolution, e.g., 480/30=16
+block_size: 30   # set the size of block, e.g., 20 means 20*20 coarse pixels, if process whole ETM scene, set 30~50
+background: 0   # set the value of background pixels. 0 means that pixels will be considered as background if one of its bands= 0
+background_band: 3 # which band with value = background indicating background pixels. Sometimes, background pixels have different values in different bands
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

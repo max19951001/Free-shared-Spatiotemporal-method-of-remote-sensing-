@@ -1,0 +1,24 @@
+ENVI
+description = {
+  Applied Mask Result [Tue Mar 12 23:51:25 2019]}
+samples = 576
+lines   = 552
+bands   = 1
+header offset = 0
+file type = ENVI Classification
+data type = 1
+interleave = bsq
+sensor type = Unknown
+classes = 5
+class lookup = {
+   0,   0,   0,   0,   0, 255, 120, 120, 120, 225, 217,  96, 250, 250, 250,
+ 187,  73,  51}
+class names = {
+ Unclassified, Class 1, Class 2, Class 3, Class 4}
+byte order = 0
+x start = 0
+y start = 0
+map info = {Arbitrary, 1.0000, 1.0000, 1.0000, 1.0000, 3.0000000000e+001, 3.0000000000e+001, 1, units=Meters}
+wavelength units = Unknown
+band names = {
+ ROI Mask (ROI Mask (Band 1:LC81250382015104LGN00_cfmask.tif):LC81250382015104LGN00_cfmask_cut)}
